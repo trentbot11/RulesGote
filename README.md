@@ -61,3 +61,4 @@ These types of NSFW pictures aren't allowed in the NSFW chat.
 -Birthing
 If the bot posts one of these things mention a moderator and request deletion of the image.
 If you post one of these knowingly you will get a warning, then a ban if it happens again.
+dank meme
